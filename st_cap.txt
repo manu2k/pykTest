@@ -1,0 +1,15 @@
+Kerala,Thiruvanathapuram
+Tamilnadu,Chennai
+Karnataka,Bengulru
+Andrapradresh,Hyderbad
+Telugana,Ongol
+Orissa,Bhuvaneshwar
+Orissa,Patna
+Maharashtra,Mumbai
+Madhyapradesh,Bhopal
+Gujarat,Allahemabad
+Goa,Panaji
+Rajasthan,Jaipur
+West Bengal,Kolkatta
+Arunachal Pradesh,Sikkim
+Punjab,Chandigarh
